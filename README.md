@@ -4,5 +4,5 @@ In the ever-evolving blockchain technology landscape, Ethereum is a pioneer, dri
 
 In this comprehensive guide, we delve into the intricate process of setting up and running an Ethereum validator node using the robust infrastructure of Google Cloud. This article serves as a beacon for both blockchain enthusiasts and seasoned developers looking to explore the realms of Ethereum's PoS ecosystem. Whether you're seeking to enhance your understanding of validator nodes, secure your spot in the Ethereum network, or take on the Google Cloud Challenge, this guide will equip you with the knowledge and tools to embark on this transformative journey.
 
-The complete article is uploaded on Medium. The link is below:
-Article(https://link.medium.com/TFIoGX3XqCb )
+The complete article is uploaded on Medium. The link is here:
+https://link.medium.com/TFIoGX3XqCb
